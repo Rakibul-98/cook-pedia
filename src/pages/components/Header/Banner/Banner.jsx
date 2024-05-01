@@ -7,7 +7,7 @@ export default function Banner() {
         src="https://i.ibb.co/DpD7Kwk/banner.jpg"
         alt=""
       />
-      <div className="absolute text-3xl flex flex-col items-center justify-center"> 
+      <div className="absolute text-3xl flex flex-col items-center justify-center mb-24"> 
         <div className="text-center text-white">
           <p className="text-6xl font-bold mb-2">Tasty Tales</p>
           <p> Recipes from Around the World</p>
